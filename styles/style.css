@@ -3,6 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+  background-color:#F3E5D8 ;
+}
+.bg-white{
+  background-color: white;
+}
 header {
   width: 60%;
   margin:0 auto;
